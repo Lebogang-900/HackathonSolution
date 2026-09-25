@@ -8,7 +8,8 @@ workflow designed to automate the process of testing a web application
 
 The Tester provides:
 
-A URL to the website.
+A URL to the website. 
+We created this website for testing : https://customerhub-ten.vercel.app/login 
 
 Instructions describing what should be tested.
 
