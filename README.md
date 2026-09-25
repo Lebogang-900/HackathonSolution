@@ -21,7 +21,8 @@ The goal is to provide an end-to-end testing solution that reduces the
 amount of manual effort required to perform functional, performance, and
 load testing.
 
-<img width="1436" height="798" alt="image" src="https://github.com/user-attachments/assets/3954c20c-15d2-4797-b603-641c7884397e" />
+<img width="1355" height="735" alt="image" src="https://github.com/user-attachments/assets/52f2953e-9547-47c0-b7a1-b38fa768e1c5" />
+
 
 
 Main Components
